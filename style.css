@@ -1,0 +1,32 @@
+.product-name {
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.card-title {
+    height: 50px;
+}
+
+.product-baseprice {
+    font-size: 10px;
+    color: #797979;
+}
+
+.price-box div div:first-child {
+    margin-right: 5px;
+}
+
+.price-box div div:nth-child(2) {
+    color: #797979;
+}
+
+.product-land {
+    width: 100%;
+    height: 20px;
+    font-size: 11px;
+    color: #797979;
+}
+
+.product-box {
+    height: 320px;
+}
